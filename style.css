@@ -1,0 +1,62 @@
+body{
+     background-color: maroon;
+     padding: 75px;
+     padding-top: 0px;
+     font-family: 'Open Sans', sans-serif;
+     margin: 0px 50px;
+     width: 600px;
+}
+
+p{
+    letter-spacing: 0.3px;
+}
+
+.main{
+    background-color: white ;
+    padding:10px 70px;
+    border-radius: 30px;
+    
+}
+
+h1,h2,h3{
+    font-family: 'Maven Pro', sans-serif;
+}
+
+h1{
+    color:#808000 ;
+}
+
+h2,h3{
+    color: maroon;
+}
+
+button{
+    background-color:#808000 ;
+    padding: 5px 15px;
+    font-variant: small-caps;
+}
+
+.bio{
+    border: solid;
+    border-color: grey;
+    padding: 10px 30px;
+    background-color:rgb(235, 235, 235) ;
+    margin-bottom: 20px;
+    
+}
+
+
+span{
+    border: solid grey 2px;
+    padding: 0px 10px;
+    background-color: rgb(235, 235, 235) ;
+    font-variant: small-caps;
+}
+span1{
+    color: maroon;
+    
+}
+
+img:hover{
+    border: black;
+}
